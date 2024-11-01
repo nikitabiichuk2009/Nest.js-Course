@@ -1,5 +1,5 @@
 # NestJS Course 🚀
-https://youtu.be/GHTA143_b-s?si=OHQxVsdP04tUBoNa
+Big thanks to FreeCodeCamp: https://youtu.be/GHTA143_b-s?si=OHQxVsdP04tUBoNa
 
 
 <p align="center">
